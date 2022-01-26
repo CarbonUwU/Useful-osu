@@ -37,6 +37,7 @@
 - [osuck](https://skins.osuck.net/)
 - [spi-osu](https://spi-osu.com/Skins)
 - [Gerwazus Skins List](https://github.com/Gerwazus/All-Skins)
+- [Circle People](https://circle-people.com/skins/)
 
 #### From Players
 
@@ -45,8 +46,26 @@ brb lol
 ### Websites
 
 - [osu!Collector!](https://osucollector.com/) - Place where you can view beatmap collections uploaded by other players.
-
+- [osu-pps](https://osu-pps.com/) 
 
 ### Tools
 
 - [Mapping Tools](https://mappingtools.github.io/) - all-in-one application for mapping.
+- [osu-trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily.
+
+# Thanks to <3
+
+<!-- ALL-CONTRIBUTORS-LIST:START - -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/NaoMeIon"><img src="https://pbs.twimg.com/profile_images/1484220182285406209/ZOtZUFnw_400x400.jpg" width="100px;" alt=""/><br /><sub><b>NaoMelon</b></sub></a><br /><a title="Research">🔍</a></td>
+    <td align="center"><a href="https://twitter.com/_Youyoux_"><img src="https://pbs.twimg.com/profile_images/1447669532974362624/WCQkBFI4_400x400.jpg" width="100px;" alt=""/><br /><sub><b>Youyou</b></sub></a><br /><a title="Research">🔍</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
