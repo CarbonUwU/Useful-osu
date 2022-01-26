@@ -1,4 +1,4 @@
-# Useful osu! !
+# Useful osu! ![GitHub last commit](https://img.shields.io/github/last-commit/CarbonUwU/Useful-osu?color=ff69b4&label=last%20updated)
 
 <img src="header.png" width="1920" />
 
