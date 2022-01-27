@@ -11,7 +11,7 @@
 - [Official Websites](#official-websites)
 - [Skins](#skins)
   - [Websites](#websites)
-  - [From Players](#from-players)
+  - [From players](#from-players)
 - [Websites](#websites)
 - [Tools](#tools)
 
@@ -40,7 +40,7 @@
 - [Gerwazus Skins List](https://github.com/Gerwazus/All-Skins)
 - [Circle People](https://circle-people.com/skins/)
 
-#### From Players
+#### From players
 
 brb lol
 
