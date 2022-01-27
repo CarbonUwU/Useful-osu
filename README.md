@@ -21,6 +21,7 @@
 - [Wiki](https://osu.ppy.sh/wiki/en/Main_Page) - Official osu! wiki page.
 - [FAQ](https://osu.ppy.sh/wiki/en/FAQ) - Official osu! FAQ page.
 - [Forums](https://osu.ppy.sh/community/forums) - Official osu! Forums page.
+- [Reddit](https://www.reddit.com/r/osugame/) - Official osu! Reddit.
 - [Github](https://github.com/ppy/osu) - Official osu! Github page.
 - [Twitter](https://twitter.com/osugame) - Official osu! Twitter.
 - [Twitch](https://www.twitch.tv/osulive) - Official osu! Twitch.
@@ -46,7 +47,8 @@ brb lol
 ### Websites
 
 - [osu!Collector!](https://osucollector.com/) - Place where you can view beatmap collections uploaded by other players.
-- [osu-pps](https://osu-pps.com/) 
+- [osu-pps](https://osu-pps.com/)
+- [Chimu.moe](https://chimu.moe/beatmaps) & [Beatconnect](https://beatconnect.io/) - osu! beatmaps mirrors
 
 ### Tools
 
