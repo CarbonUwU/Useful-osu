@@ -55,6 +55,7 @@ brb lol
 - [Mapping Tools](https://mappingtools.github.io/) - all-in-one application for mapping.
 - [osu-trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily.
 - [circle-tracker](https://github.com/FunOrange/circle-tracker) - A program made for tracking training progress in osu.
+- [osu!daily](https://osudaily.net/index.php) - Stats tracker for your osu! profile
 
 # Thanks to <3
 
@@ -66,6 +67,7 @@ brb lol
     <td align="center"><a href="https://twitter.com/c9rbon"><img src="https://pbs.twimg.com/profile_images/1485926744683126791/MN2IuqcI_400x400.jpg" width="100px;" alt=""/><br /><sub><b>carbon</b></sub></a><br /><a title="Research">🤔</a></td>
     <td align="center"><a href="https://twitter.com/NaoMeIon"><img src="https://pbs.twimg.com/profile_images/1484220182285406209/ZOtZUFnw_400x400.jpg" width="100px;" alt=""/><br /><sub><b>NaoMelon</b></sub></a><br /><a title="Research">🔍</a></td>
     <td align="center"><a href="https://twitter.com/_Youyoux_"><img src="https://pbs.twimg.com/profile_images/1447669532974362624/WCQkBFI4_400x400.jpg" width="100px;" alt=""/><br /><sub><b>Youyou</b></sub></a><br /><a title="Research">🔍</a></td>
+    <td align="center"><a href="https://twitter.com/SaluCJielefe"><img src="https://pbs.twimg.com/profile_images/1475983384077864961/M2gEZzN8_400x400.jpg" width="100px;" alt=""/><br /><sub><b>SaluCJielefe</b></sub></a><br /><a title="Research">🔍</a></td>
   </tr>
 </table>
 
