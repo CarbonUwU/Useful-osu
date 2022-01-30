@@ -14,6 +14,7 @@
   - [From players](#from-players)
 - [Websites](#websites)
 - [Tools](#tools)
+- [Bots](#bots)
 
 ### Official Websites
 
@@ -54,6 +55,10 @@
 - [Chimu.moe](https://chimu.moe/beatmaps) & [Beatconnect](https://beatconnect.io/) - osu! beatmaps mirrors
 - [osu! Battle Royale](https://play.osustuff.org/)
 - [osu!snipe](https://snipe.huismetbenen.nl/) -  A website dedicated to showing data on country #1 scores in osu!
+- [osu!Skills](https://osuskills.com/) - unofficial system of rating player results based on actual skills used when playing.
+- [osu!Stats](https://osustats.ppy.sh/)
+- [osu!Stats Collections](https://osustats.ppy.sh/collections/expressions/)
+
 
 ### Tools
 
@@ -62,6 +67,14 @@
 - [circle-tracker](https://github.com/FunOrange/circle-tracker) - A program made for tracking training progress in osu.
 - [osu!daily](https://osudaily.net/index.php) - Stats tracker for your osu! profile
 - [Avatar Maker](https://www.osustuff.org/avatar-maker)
+- [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - A userscript to add features to your boring osu! web pages.
+
+### Bots
+
+- [Mikuia](https://mikuia.tv/guides/osu) - osu! Beatmaps request bot (and more)
+- [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) - A bot to get beatmap recommendations based on a player's top10 plays. [Discord](https://discordapp.com/invite/0ww19XGd9XsiJ4LI)
+- [owo!](http://owo-bot.xyz/) - osu! Discord bot
+- [Bathbot](https://github.com/MaxOhn/Bathbot) - osu! Discord Bot
 
 # Thanks to <3
 
