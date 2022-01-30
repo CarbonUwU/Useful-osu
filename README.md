@@ -42,13 +42,18 @@
 
 #### From players
 
-brb lol
+- [Azer](https://drive.google.com/drive/folders/1hAMktXgn2yCpPNiUHP-oMS66rGpfCAlo)
+- [chocomint | Cookiezi | SHIGETORA](https://gist.github.com/Fobxx/107e2bad2bf7312cd49431c696aac912)
+- [Seouless](https://pastebin.com/raw/dxDGWhkj)
+- [Umbre](https://pastebin.com/6VBm80uj)
 
 ### Websites
 
 - [osu!Collector!](https://osucollector.com/) - Place where you can view beatmap collections uploaded by other players.
 - [osu-pps](https://osu-pps.com/)
 - [Chimu.moe](https://chimu.moe/beatmaps) & [Beatconnect](https://beatconnect.io/) - osu! beatmaps mirrors
+- [osu! Battle Royale](https://play.osustuff.org/)
+- [osu!snipe](https://snipe.huismetbenen.nl/) -  A website dedicated to showing data on country #1 scores in osu!
 
 ### Tools
 
@@ -56,6 +61,7 @@ brb lol
 - [osu-trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily.
 - [circle-tracker](https://github.com/FunOrange/circle-tracker) - A program made for tracking training progress in osu.
 - [osu!daily](https://osudaily.net/index.php) - Stats tracker for your osu! profile
+- [Avatar Maker](https://www.osustuff.org/avatar-maker)
 
 # Thanks to <3
 
