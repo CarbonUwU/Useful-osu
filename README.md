@@ -50,7 +50,8 @@
 
 ### Websites
 
-- [osu!Collector!](https://osucollector.com/) - Place where you can view beatmap collections uploaded by other players.
+- [osu! Keyboard Shortcuts](https://osu.ppy.sh/wiki/en/Client/Keyboard_shortcuts)
+- [osu!Collector](https://osucollector.com/) - Place where you can view beatmap collections uploaded by other players.
 - [osu-pps](https://osu-pps.com/)
 - [Chimu.moe](https://chimu.moe/beatmaps) & [Beatconnect](https://beatconnect.io/) - osu! beatmaps mirrors
 - [osu! Battle Royale](https://play.osustuff.org/)
@@ -58,6 +59,7 @@
 - [osu!Skills](https://osuskills.com/) - unofficial system of rating player results based on actual skills used when playing.
 - [osu!Stats](https://osustats.ppy.sh/)
 - [osu!Stats Collections](https://osustats.ppy.sh/collections/expressions/)
+
 
 
 ### Tools
@@ -83,7 +85,7 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://twitter.com/c9rbon"><img src="https://pbs.twimg.com/profile_images/1485926744683126791/MN2IuqcI_400x400.jpg" width="100px;" alt=""/><br /><sub><b>carbon</b></sub></a><br /><a title="Research">🤔</a></td>
+    <td align="center"><a href="https://twitter.com/c9rbon"><img src="https://pbs.twimg.com/profile_images/1487744832156180482/V4yxBwUl_400x400.jpg" width="100px;" alt=""/><br /><sub><b>carbon</b></sub></a><br /><a title="Research">🤔</a></td>
     <td align="center"><a href="https://twitter.com/NaoMeIon"><img src="https://pbs.twimg.com/profile_images/1484220182285406209/ZOtZUFnw_400x400.jpg" width="100px;" alt=""/><br /><sub><b>NaoMelon</b></sub></a><br /><a title="Research">🔍</a></td>
     <td align="center"><a href="https://twitter.com/_Youyoux_"><img src="https://pbs.twimg.com/profile_images/1447669532974362624/WCQkBFI4_400x400.jpg" width="100px;" alt=""/><br /><sub><b>Youyou</b></sub></a><br /><a title="Research">🔍</a></td>
     <td align="center"><a href="https://twitter.com/SaluCJielefe"><img src="https://pbs.twimg.com/profile_images/1475983384077864961/M2gEZzN8_400x400.jpg" width="100px;" alt=""/><br /><sub><b>SaluCJielefe</b></sub></a><br /><a title="Research">🔍</a></td>
