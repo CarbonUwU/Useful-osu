@@ -51,6 +51,7 @@
 ### Websites
 
 - [osu! Keyboard Shortcuts](https://osu.ppy.sh/wiki/en/Client/Keyboard_shortcuts)
+- [osu! Search Tips](https://osu.ppy.sh/wiki/en/Client/Interface#search)
 - [osu!Collector](https://osucollector.com/) - Place where you can view beatmap collections uploaded by other players.
 - [osu-pps](https://osu-pps.com/)
 - [Chimu.moe](https://chimu.moe/beatmaps) & [Beatconnect](https://beatconnect.io/) - osu! beatmaps mirrors
