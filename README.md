@@ -40,6 +40,7 @@
 - [spi-osu](https://spi-osu.com/Skins)
 - [Gerwazus Skins List](https://github.com/Gerwazus/All-Skins)
 - [Circle People](https://circle-people.com/skins/)
+- [o!rdr Skins](https://ordr.issou.best/skins)
 
 #### From players
 
@@ -71,6 +72,7 @@
 - [osu!daily](https://osudaily.net/index.php) - Stats tracker for your osu! profile
 - [Avatar Maker](https://www.osustuff.org/avatar-maker)
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - A userscript to add features to your boring osu! web pages.
+- [o!rdr](https://ordr.issou.best/)
 
 ### Bots
 
