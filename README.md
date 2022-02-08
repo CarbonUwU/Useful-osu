@@ -78,6 +78,7 @@
 - [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki) - A bot to get beatmap recommendations based on a player's top10 plays. [Discord](https://discordapp.com/invite/0ww19XGd9XsiJ4LI)
 - [owo!](http://owo-bot.xyz/) - osu! Discord bot
 - [Bathbot](https://github.com/MaxOhn/Bathbot) - osu! Discord Bot
+- [PippiTrack](https://pippitrack.com/) - Osu! Discord Bot
 
 # Thanks to <3
 
@@ -86,7 +87,7 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://twitter.com/c9rbon"><img src="https://pbs.twimg.com/profile_images/1487744832156180482/V4yxBwUl_400x400.jpg" width="100px;" alt=""/><br /><sub><b>carbon</b></sub></a><br /><a title="Research">🤔</a></td>
+    <td align="center"><a href="https://twitter.com/c9rbon"><img src="https://avatars.githubusercontent.com/u/65967261?v=4" width="100px;" alt=""/><br /><sub><b>carbon</b></sub></a><br /><a title="Research">🤔</a></td>
     <td align="center"><a href="https://twitter.com/NaoMeIon"><img src="https://pbs.twimg.com/profile_images/1484220182285406209/ZOtZUFnw_400x400.jpg" width="100px;" alt=""/><br /><sub><b>NaoMelon</b></sub></a><br /><a title="Research">🔍</a></td>
     <td align="center"><a href="https://twitter.com/_Youyoux_"><img src="https://pbs.twimg.com/profile_images/1447669532974362624/WCQkBFI4_400x400.jpg" width="100px;" alt=""/><br /><sub><b>Youyou</b></sub></a><br /><a title="Research">🔍</a></td>
     <td align="center"><a href="https://twitter.com/SaluCJielefe"><img src="https://pbs.twimg.com/profile_images/1475983384077864961/M2gEZzN8_400x400.jpg" width="100px;" alt=""/><br /><sub><b>SaluCJielefe</b></sub></a><br /><a title="Research">🔍</a></td>
