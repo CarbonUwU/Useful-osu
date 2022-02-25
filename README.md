@@ -41,6 +41,7 @@
 - [Gerwazus Skins List](https://github.com/Gerwazus/All-Skins)
 - [Circle People](https://circle-people.com/skins/)
 - [o!rdr Skins](https://ordr.issou.best/skins)
+- [osu! - Skinnable Files](https://docs.google.com/spreadsheets/d/1bhnV-CQRMy3Z0npQd9XSoTdkYxz0ew5e648S00qkJZ8/edit#gid=2074725196) - Detailed list of skinnable files.
 
 #### From players
 
@@ -61,6 +62,7 @@
 - [osu!Skills](https://osuskills.com/) - unofficial system of rating player results based on actual skills used when playing.
 - [osu!Stats](https://osustats.ppy.sh/)
 - [osu!Stats Collections](https://osustats.ppy.sh/collections/expressions/)
+- [osu!chan](https://osuchan.syrin.me/)
 
 
 
@@ -89,8 +91,8 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://twitter.com/c9rbon"><img src="https://avatars.githubusercontent.com/u/65967261?v=4" width="100px;" alt=""/><br /><sub><b>carbon</b></sub></a><br /><a title="Research">🤔</a></td>
-    <td align="center"><a href="https://twitter.com/NaoMeIon"><img src="https://pbs.twimg.com/profile_images/1484220182285406209/ZOtZUFnw_400x400.jpg" width="100px;" alt=""/><br /><sub><b>NaoMelon</b></sub></a><br /><a title="Research">🔍</a></td>
+    <td align="center"><a href="https://twitter.com/c9rbon"><img src="https://avatars.githubusercontent.com/u/65967261?v=4" width="100px;" alt=""/><br /><sub><b>carbon</b></sub></a><br /><a title="Research">🐲</a></td>
+    <td align="center"><a href="https://twitter.com/NaoMeIon"><img src="https://pbs.twimg.com/profile_images/1492305884311130118/BCBXo3Bw_400x400.jpg" width="100px;" alt=""/><br /><sub><b>NaoMelon</b></sub></a><br /><a title="Research">🔍</a></td>
     <td align="center"><a href="https://twitter.com/_Youyoux_"><img src="https://pbs.twimg.com/profile_images/1447669532974362624/WCQkBFI4_400x400.jpg" width="100px;" alt=""/><br /><sub><b>Youyou</b></sub></a><br /><a title="Research">🔍</a></td>
     <td align="center"><a href="https://twitter.com/SaluCJielefe"><img src="https://pbs.twimg.com/profile_images/1475983384077864961/M2gEZzN8_400x400.jpg" width="100px;" alt=""/><br /><sub><b>SaluCJielefe</b></sub></a><br /><a title="Research">🔍</a></td>
   </tr>
