@@ -33,7 +33,7 @@
 #### Websites
 
 - [Completed Skins Forum](https://osu.ppy.sh/community/forums/109)
-- [r/OsuSkins/](https://www.reddit.com/r/OsuSkins/)
+- [r/OsuSkins](https://www.reddit.com/r/OsuSkins/)
 - [Compendium](https://compendium.skinship.xyz/)
 - [osuskins](https://osuskins.net/)
 - [osuck](https://skins.osuck.net/)
