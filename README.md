@@ -46,7 +46,9 @@
 #### From players
 
 - [Azer](https://drive.google.com/drive/folders/1hAMktXgn2yCpPNiUHP-oMS66rGpfCAlo)
+- [carbon](https://github.com/CarbonUwU/Carbon-Skins)
 - [chocomint | Cookiezi | SHIGETORA](https://gist.github.com/Fobxx/107e2bad2bf7312cd49431c696aac912)
+- [RyuK](https://github.com/Mizaruuu/osu-RyuK-s-super-cool-skins/blob/master/Skins.md)
 - [Seouless](https://pastebin.com/raw/dxDGWhkj)
 - [Umbre](https://pastebin.com/6VBm80uj)
 
