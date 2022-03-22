@@ -76,7 +76,8 @@
 - [osu!daily](https://osudaily.net/index.php) - Stats tracker for your osu! profile
 - [Avatar Maker](https://www.osustuff.org/avatar-maker)
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - A userscript to add features to your boring osu! web pages.
-- [o!rdr](https://ordr.issou.best/)
+- [danser](https://github.com/Wieku/danser-go) - CLI visualisation tool for osu!standard maps
+- [o!rdr](https://ordr.issou.best/) - o!rdr (short for osu!render or osu!renderer) is a free online tool to make renders of osu! replays using [danser](https://github.com/Wieku/danser-go).
 
 ### Bots
 
