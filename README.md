@@ -51,6 +51,7 @@
 - [RyuK](https://github.com/Mizaruuu/osu-RyuK-s-super-cool-skins/blob/master/Skins.md)
 - [Seouless](https://pastebin.com/raw/dxDGWhkj)
 - [Umbre](https://pastebin.com/6VBm80uj)
+- [Skinhub of Rudj](https://github.com/rudj-skinhub/woal)
 
 ### Websites
 
