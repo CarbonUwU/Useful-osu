@@ -66,7 +66,7 @@
 - [osu!Stats](https://osustats.ppy.sh/)
 - [osu!Stats Collections](https://osustats.ppy.sh/collections/expressions/)
 - [osu!chan](https://osuchan.syrin.me/)
-
+- [Osekai](https://osekai.net/home/) - Multi purpose website
 
 
 ### Tools
