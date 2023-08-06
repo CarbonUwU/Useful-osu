@@ -37,7 +37,6 @@
 - [Compendium](https://compendium.skinship.xyz/)
 - [osuskins](https://osuskins.net/)
 - [osuck](https://skins.osuck.net/)
-- [spi-osu](https://spi-osu.com/Skins)
 - [Gerwazus Skins List](https://github.com/Gerwazus/All-Skins)
 - [Circle People](https://circle-people.com/skins/)
 - [o!rdr Skins](https://ordr.issou.best/skins)
