@@ -65,7 +65,7 @@
 - [osu!Stats](https://osustats.ppy.sh/)
 - [osu!Stats Collections](https://osustats.ppy.sh/collections/expressions/)
 - [osu!chan](https://osuchan.syrin.me/)
-- [Osekai](https://osekai.net/home/) - Multi purpose website
+- [Osekai](https://inex.osekai.net//) - Multi purpose website
 
 
 ### Tools
@@ -78,7 +78,8 @@
 - [osuplus](https://osu.ppy.sh/community/forums/topics/408541?n=1) - A userscript to add features to your boring osu! web pages.
 - [danser](https://github.com/Wieku/danser-go) - CLI visualisation tool for osu!standard maps
 - [o!rdr](https://ordr.issou.best/) - o!rdr (short for osu!render or osu!renderer) is a free online tool to make renders of osu! replays using [danser](https://github.com/Wieku/danser-go).
-
+- [osuck tools](https://tools.osuck.net/) - List of osu! tools
+- 
 ### Bots
 
 - [Mikuia](https://mikuia.tv/guides/osu) - osu! Beatmaps request bot (and more)
