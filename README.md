@@ -79,7 +79,7 @@
 - [danser](https://github.com/Wieku/danser-go) - CLI visualisation tool for osu!standard maps
 - [o!rdr](https://ordr.issou.best/) - o!rdr (short for osu!render or osu!renderer) is a free online tool to make renders of osu! replays using [danser](https://github.com/Wieku/danser-go).
 - [osuck tools](https://tools.osuck.net/) - List of osu! tools
-- 
+  
 ### Bots
 
 - [Mikuia](https://mikuia.tv/guides/osu) - osu! Beatmaps request bot (and more)
